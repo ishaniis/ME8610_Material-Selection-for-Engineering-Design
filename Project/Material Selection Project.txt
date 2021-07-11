@@ -1,0 +1,66 @@
+Regulating Body: FAA
+Original Material: AISI 4130 Steel
+
+Objective: To Minimize Mass and Cost of Tow bar system for Aviation Operations
+
+Tow-Bar design for A320 Commercial Passenger Aircraft
+- Weight (Maximum Take-Off Weight): 93,000Kg (102 Tons)
+
+FOS Specified for Towbar Application (1.5 - 1.95) 
+Taking Extreme FOS
+(Might lead to over-designing , 
+could be obstacle in lightweighting 
+applications)
+
+Extreme FOS Compensates for all the maximum dynamic operational loads
+in a given application.
+
+Majority Forces applied (Experimental Data):
+- Axial Loads (Majorly)
+- Bending Load (Friction between Lunette and pintle)
+- Torsional Load* (Zero to Minimalistic) 
+(Due to Universal Joint Connections at ends)
+(To allow adequate degree of freedom with regard to rotation)
+(Swaying forces have been neglected due to low-speed operations)
+
+Effects of reducing mass and Cost
+- Cost Reduction would help reduce the operation costs, as
+it comprises of nearly 3.6% aviations ground operations costs.
+(As you need different towbars for different aircrafts as 
+per their towbar specified length by the regulating authority)
+- Minimize Mass 
+
+Requirements:
+- Strength Requirements
+- Stiffness Requirements
+- Low NVH Profile (As it even affects the structural indemnity of the Aircraft too a certain extent)
+
+Function: Towbar System for Aviation Operations
+(Pushback Truck Mechanical Linkage between NLG and Pushback)
+
+Constraints - 
+- Length Specified - Minimum Length and Maximum Length Specified as per AAA
+- Must have adequate strength to function under compressive 
+load environment and withstand critical buckling load
+- Must have adequate stiffness to work through the lateral
+loads during the transportation
+- Ability to Damp the vibrations and limit the axis-symmetric 
+excitations/longitudnal excitations in the line of pushback operations
+- Have adequate Fracture Toughnessto work through the operational
+environment
+- Corrosion Resisstant
+- Tunette and Pintle Dimensions are fixed
+
+Objective:
+- Minimize Mass
+- Minimize Cost
+
+Free Variable:
+- Section Area 
+- Choice of Material
+
+Replace Ro by Cm * Ro
+
+
+
+

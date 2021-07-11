@@ -1,0 +1,14 @@
+- Lightweight
+- Sturdy
+
+Mininimizing Mass: Light & Strong Tie (M1)
+Minimizing Material Cost: Cheap Tie (M2) 
+
+Base Material (Specified in Report): Steel (AISI 4130)
+- Reference US Army Engineering Corp Investigation
+Requirements
+Selection Process 
+- Multiple Constraints 
+Selected Material
+- Desired Result : Composite or Alumunium
+Compare Materials

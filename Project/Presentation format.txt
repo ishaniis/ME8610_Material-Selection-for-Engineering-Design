@@ -1,0 +1,107 @@
+Slide - I
+First Slide 
+
+Slide - II
+Introductory & Motivation
+Where is Towbar used ?
+Every Aircraft has specified Towbar,
+Design dynamics in next slide
+
+Slide - III
+Regulations Involved: FAA (Length)
+Original Material: AISI 4130 Steel
+
+Product Design(in Reference): Commercial Passenger Aircraft
+Weight(Maximum Take-Off Weight): 102 Tons
+
+(A320 Picture)
+
+Slide IV
+Design Regulations by FAA: 
+- Minimum Length & Maximum Length of Towbar Specified
+- FOS (TowBar Operations): 1.5 - 1.95 
+
+Slide V
+Load Profile
+Reference: A3 , US Army Engineering**
+
+Majority Forces Applied (Experimental Results of Physical Testing):
+- Axial Loads (Majorly)
+- Bending Load (Friction between Lunette and pintle)
+- Torsional Load* (Zero to Minimalistic) 
+(Due to Universal Joint Connections at ends)
+(To allow adequate degree of freedom with regard to rotation)
+(Swaying forces have been neglected due to low-speed operations)
+
+Slide - VII: Design Requirements:
+- Strength Requirements (Priority):
+- Stiffness Requirements:
+- Low NVH Profile: 
+
+Slide - VI: 
+Problem Formulation
+- Function: TowBar System for Aviation Ground Operations
+
+- Constraints:
+- Length Specified - Minimum Length and Maximum Length Specified as per AAA
+- Must have adequate strength to function under compressive 
+load environment and withstand critical buckling load
+- Must have adequate stiffness to work through the lateral
+loads during the transportation
+- Ability to Damp the vibrations and limit the axis-symmetric 
+excitations/longitudnal excitations in the line of pushback operations
+- Have adequate Fracture Toughnessto work through the operational
+environment
+- Corrosion Resisstant
+- Tunette and Pintle Dimensions are fixed
+- Area distribution such that it resists - Column Buckling and Shell Buckling
+
+Slide VII
+- Objective: 
+- - Minimize Mass
+- - Minimize Cost
+
+Free Variables:
+- Section Area 
+- Choice of Material
+
+Slide VIII:
+Selection Process - Bounding Box Calculations
+
+Assumptions:
+Modelled as Column 
+Low Speed Operations: Swaying considerations over a straight path is neglected , As permissive swaying is requirement
+
+Table
+
+Bounding Box Range
+
+Slide IX:
+Material Indices 
+
+Case - I :
+Light & Stiff 
+
+Case - II:
+Vibration Limited Design
+
+Slide X:
+Case - III:
+Fracture Toughness
+
+Case - IV:
+Light, Strong & Cheap Column
+
+Case - V:
+Damping Considerations
+Reference: US Army
+
+
+Slide X:
+Selection Flow 
+
+Slide XI:
+Selection Flow (Contd)
+
+Slide XII
+Final Material Selected & Concluding Remarks
